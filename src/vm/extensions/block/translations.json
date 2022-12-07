@@ -1,0 +1,14 @@
+{
+  "en": {
+    "scratchFPGA.name": "Scratch FPGA",
+    "scratchFPGA.doIt": "do it [SCRIPT]"
+  },
+  "ja": {
+    "scratchFPGA.name": "Scratch FPGA",
+    "scratchFPGA.doIt": "[SCRIPT] を実行する"
+  },
+  "ja-Hira": {
+    "scratchFPGA.name": "Scratch FPGA",
+    "scratchFPGA.doIt": "[SCRIPT] をじっこうする"
+  }
+}

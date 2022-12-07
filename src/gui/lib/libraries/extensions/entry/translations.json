@@ -1,0 +1,14 @@
+{
+  "en": {
+    "scratchFPGA.entry.name": "Scratch FPGA",
+    "scratchFPGA.entry.description": "Description of this extension"
+  },
+  "ja": {
+    "scratchFPGA.entry.name": "Scratch FPGA",
+    "scratchFPGA.entry.description": "拡張機能の説明"
+  },
+  "ja-Hira": {
+    "scratchFPGA.entry.name": "Scratch FPGA",
+    "scratchFPGA.entry.description": "かくちょうきのうのせつめい"
+  }
+}
